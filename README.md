@@ -19,6 +19,7 @@ A curated list of design systems. Learning materials and tools for creating your
 - [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)
 - [Microsoft Design](https://www.microsoft.com/en-us/design)
 - [Airbnb (article)](http://airbnb.design/building-a-visual-language/)
+- [Github Primer](https://styleguide.github.com/primer/principles/)
 - [Clarity Design System](https://vmware.github.io/clarity/)
 - [The Harmony Design System](http://harmony.intuit.com/)
 - [BBC Gel ](http://www.bbc.co.uk/gel)
